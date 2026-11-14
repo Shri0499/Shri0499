@@ -19,7 +19,7 @@ problem, write the spec, make the product decisions and test the result; AI codi
 | [Evidence Before Capital](https://shriniketan-portfolio.web.app/#/case/evidence-before-capital) | An autonomous NIFTY options paper-trading system. Its win rate rose from 14% to 47% across 104 paper trades once the AI was given real price data. It passed its own go-live test, and I still chose not to fund it. | Stopped · paper only, never funded |
 | [Akshara Bodha](https://shriniketan-portfolio.web.app/#/case/akshara-bodha-lms) | An exam-prep EdTech pilot I co-founded: a 140-student Telegram learning community and a three-sided LMS prototype for students, faculty and admins. | On hold |
 | [Vocal_Clone.AI](https://shriniketan-portfolio.web.app/#/case/vocal-clone-ai) | A six-stage AI voice-conversion pipeline, scoped around the limits of a CPU-only laptop. | Paused until better hardware |
-| [Guidely & IBS Fee Portal](https://shriniketan-portfolio.web.app/#/case/guidely-ibs-enrollment-portal) | A ₹0-running-cost fee portal with direct UPI QR payments. I dropped an AI auto-approval feature after finding it could accept spoofed payment screenshots. | Personal tool |
+| [Guidely & IBS Fee Portal](https://shriniketan-portfolio.web.app/#/case/guidely-ibs-enrollment-portal) | A ₹0-running-cost fee portal with direct UPI QR payments. I dropped a planned AI auto-approval feature because it couldn't tell a spoofed payment screenshot from a real one. | Personal tool |
 
 Each link opens the full case study: the problem, the product decisions, the trade-offs and the outcome.
 
