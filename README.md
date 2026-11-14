@@ -30,7 +30,7 @@ Claude Code · Google Antigravity · Google AI Studio · Google Stitch · Google
 ## Learning
 
 - MBA, IT & FinTech, Manipal University Jaipur (expected 2027)
-- IBM AI Product Manager Professional Certificate, 3 of 10 courses done
+- IBM AI Product Manager Professional Certificate, 4 of 10 courses done
 
 ## Contact
 
